@@ -1,0 +1,15 @@
+current directory: /home/serhij/sample_app/vendor/bundle/gems/debug_inspector-1.1.0/ext/debug_inspector
+/home/serhij/.rbenv/versions/2.7.5/bin/ruby -I /home/serhij/.rbenv/versions/2.7.5/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220303-3454-1gbacz3.rb extconf.rb
+creating Makefile
+
+current directory: /home/serhij/sample_app/vendor/bundle/gems/debug_inspector-1.1.0/ext/debug_inspector
+make DESTDIR\= clean
+
+current directory: /home/serhij/sample_app/vendor/bundle/gems/debug_inspector-1.1.0/ext/debug_inspector
+make DESTDIR\=
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/serhij/sample_app/vendor/bundle/gems/debug_inspector-1.1.0/ext/debug_inspector
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20220303-3454-kov94d
